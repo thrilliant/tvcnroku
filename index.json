@@ -5,7 +5,7 @@
     "movies": [
         {
             "id": "unique_id_001",
-            "title": "TVCN",
+            "title": "TVC News",
             "content": {
                 "dateAdded": "2023-05-09T10:00:00+00:00",
                 "videos": [
@@ -18,6 +18,7 @@
                 "duration": 5400
             },
             "thumbnail": "https://www.thrilliant.com.ng/apps/assets/yourview-1080.jpg",
+            "releaseDate": "2023-05-09",
             "genres": ["News"],
             "shortDescription": "We bring you all the latest and breaking news happening in Nigeria.",
             "longDescription": "We bring you all the latest and breaking news happening in Nigeria. You will also find interesting headline topics from news from around the world on different topical issues in Politics, Health, Business, Entertainment, Environment, Sports, and more."
