@@ -10,7 +10,7 @@
                 "dateAdded": "2023-05-09T10:00:00+00:00",
                 "videos": [
                     {
-                        "url": "https://tvce.gridpapaservers.com/TVCSEPT/myStream_240p/playlist.m3u8",
+                        "url": "https://tvce.gridpapaservers.com/TVCSEPT/myStream_720p/playlist.m3u8",
                         "quality": "SD",
                         "videoType": "HLS"
                     }
